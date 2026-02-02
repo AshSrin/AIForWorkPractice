@@ -1,6 +1,0 @@
-query GetTopStories {
-  topStories {
-    id
-    title
-  }
-}
