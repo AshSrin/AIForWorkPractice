@@ -1,0 +1,12 @@
+{
+  "name": "abc-quality-automation",
+  "private": true,
+  "scripts": {
+    "test": "playwright test"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.41.0",
+    "@axe-core/playwright": "^4.8.2",
+    "typescript": "^5.3.0"
+  }
+}
